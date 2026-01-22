@@ -47,7 +47,7 @@ def draw_rotated_player(surface, rect, angle):
 # 배경
 angle_amplitude = 3.5
 angle_speed = 0.005
-scale_amplitude = 0.02
+scale_amplitude = 0.021
 scale_base = 0.8
 angle_time = 0
 bg_scroll_x = 0
